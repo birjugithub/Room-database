@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity(), NoteClickInterface, NoteClickDeleteInt
     lateinit var addFAB: FloatingActionButton
     //////////////
 
+    //brijkishor
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
